@@ -1,0 +1,1 @@
+FROM electronuserland/builder:18-wine-mono
